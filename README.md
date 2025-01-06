@@ -22,6 +22,9 @@ open index.html Or simply double-click the index.html file to open it in your de
 ## Technologies Used:
 
 • HTML5 - Semantic structure for the login form.
+
 • CSS3 - Styling and layout using Flexbox and media queries for responsiveness.
+
 • JavaScript - Basic form validation (optional, based on implementation).
+
 • Font Awesome (optional) - For adding icons to input fields and buttons (if used).
